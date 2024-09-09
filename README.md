@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
+## Array
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
