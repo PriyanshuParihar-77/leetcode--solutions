@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
