@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0392-is-subsequence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
@@ -39,4 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
