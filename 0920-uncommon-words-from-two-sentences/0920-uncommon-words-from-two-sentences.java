@@ -2,14 +2,11 @@ import java.util.*;
 
 class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
-        String s = s1 + " " + s2;
         Map<String, Integer> wordCount = new HashMap<>();
-        String[] words = s.split(" ");
         
-        // Count the occurrences of each word
-        for (String word : words) {
-            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
-        }
+        // Helper function to count words
+        countWords(s1, wordCount);
+        countWords(s2, wordCount);
         
         List<String> result = new ArrayList<>();
         
@@ -22,5 +19,11 @@ class Solution {
         
         // Convert the list to an array
         return result.toArray(new String[0]);
+    }
+    
+    private void countWords(String sentence, Map<String, Integer> wordCount) {
+        for (String word : sentence.split(" ")) {
+            wordCount.put(word, wordCount.getOrDefault(word, 0) + 1);
+        }
     }
 }
