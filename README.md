@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0392-is-subsequence) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -49,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
