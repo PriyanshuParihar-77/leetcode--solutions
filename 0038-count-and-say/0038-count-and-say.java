@@ -1,22 +1,21 @@
 class Solution {
     public String countAndSay(int n) {
-        if (n == 1) return "1";
+      if( n==1) return "1";
 
-        String s = "1";
-        for (int i = 2; i <= n; i++) {
-            StringBuilder res = new StringBuilder();
-            int counter = 1;
-            for (int j = 1; j < s.length(); j++) {
-                if (s.charAt(j) == s.charAt(j - 1)) {
-                    counter++;
-                } else {
-                    res.append(counter).append(s.charAt(j - 1));
-                    counter = 1;
-                }
-            }
-            res.append(counter).append(s.charAt(s.length() - 1));
-            s = res.toString();
+      // recursion
+      String s = countAndSay(n-1);
+      StringBuilder res = new StringBuilder();
+     // String res  = "" ;
+      int  counter = 0;
+
+      for(int i =0 ; i < s.length();i++){
+        counter++;
+        if(i == s.length()- 1 || s.charAt(i) != s.charAt(i+1)){
+            res.append(counter).append(s.charAt(i));
+            //res = res + counter + s.charAt(i);
+            counter = 0;
         }
-        return s;
+      }
+      return res.toString();
     }
 }
