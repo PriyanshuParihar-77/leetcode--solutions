@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0392-is-subsequence) |
