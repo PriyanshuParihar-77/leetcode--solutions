@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
+| [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
 ## Matrix
 |  |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
