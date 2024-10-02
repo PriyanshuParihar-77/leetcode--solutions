@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
 | [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0001-two-sum) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/0859-design-circular-deque) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/PriyanshuParihar-77/leetcode--solutions/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
